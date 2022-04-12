@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://brock-poesiat.github.io/Drum_Machine_React",
   "dependencies": {
     "-": "^0.0.1",
